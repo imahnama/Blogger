@@ -9,6 +9,9 @@ A simple blog system and learn the basics of Ruby on Rails including:
 - RESTful design
 - Adding gems for extra features
 
+## Live Demo
+![live]("https://secure-peak-25783.herokuapp.com/")
+
 ## Built With
 - Ruby
 - Rails Framework
