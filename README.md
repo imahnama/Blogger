@@ -10,7 +10,7 @@ A simple blog system and learn the basics of Ruby on Rails including:
 - Adding gems for extra features
 
 ## Live Demo
-[live demo]-("https://secure-peak-25783.herokuapp.com/")
+[live demo](https://secure-peak-25783.herokuapp.com/)
 
 ## Built With
 - Ruby
